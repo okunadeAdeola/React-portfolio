@@ -9,7 +9,7 @@ export const education = [
         Year: "October 2023 - June 2024"
     },
     {
-        img: "/image/OIP.jpeg",
+        img: "https://image.pngaaa.com/389/995389-middle.png",
         School: "Ladoke Akintola University",
         Programme: "Earth Science",
         Year: "2023/2024 - ''"
