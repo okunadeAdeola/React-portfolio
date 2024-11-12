@@ -22,14 +22,14 @@ export const ProjectList = [
     {
         image: "/image/image1.jpg",
         title: "E-commerce",
-        gitlink: "https://captainoig-e-commerce.netlify.app/",
+        gitlink: "https://adesquare.vercel.app/",
         content: "E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the internet.",
     },
     {
         image: "/image/step.svg",
-        title: "Multi-Step Subscription Form",
-        gitlink: "https://captainoig-multistep-form.netlify.app",
-        content: "TA multi-step form is exactly what it sounds like — a long-form broken down into multiple pieces/steps to make an otherwise long form less intimidating for visitors to complete. The additional fields only appear after a visitor has filled in their baseline information, like name and email address",
+        title: "Chat app",
+        gitlink: "https://ade-chat.vercel.app/",
+        content: "This chat app is exactly what it sounds like — It bridge gap between long distance communication. It allows user to chat with each other and share enjoymrent moments with each other",
     },
     {
         image: "/image/cinema.jpg",
