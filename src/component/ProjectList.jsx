@@ -8,10 +8,10 @@ export const ProjectList = [
         
     },
     {
-        image: "/image/mask.jpeg",
-        title: "Anonymous App",
-        gitlink: "https://captainoig-anonymous-app.netlify.app",
-        content: " Users share ideas, ask questions, and interact with other users without revealing their identity ",
+        image: "https://images.pexels.com/photos/953864/pexels-photo-953864.jpeg?auto=compress&cs=tinysrgb&w=600",
+        title: "E-Commerce Website",
+        gitlink: "https://ade-shopping.vercel.app/",
+        content: "An intuitive and user-friendly e-commerce website offering a seamless shopping experience. Browse a wide range of products, enjoy secure transactions, and get fast deliveries—all in one place ",
     },
     {
         image: "/image/school.jpg",

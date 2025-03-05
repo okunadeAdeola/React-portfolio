@@ -9,13 +9,13 @@ const Project = () => {
     }, [])
     
   return (
-    <div data-aos="fade-up">
+    <div data-aos="fade-right">
     <div id='projects' className='text-white ms-10 my-10'>
         <p className='text-xl'>MY PROJECTS</p>
         <p className='text-6xl font-bold'>Overview.</p>
         <p className='font-bold mt-2'>Below projects showcases my work and experience in building a real world applications. <br /> Each work is briefly describe with links to code repository and demo links. The projects <br /> reflect my ability to work with different technologies without compromising quality in my work.</p>
     </div>
-    <div data-aos="flip-left" className='card text-white lg:ms-10 ms-6 lg:grid grid-cols-3  text-gray-900 gap-5'>
+    <div data-aos="flip-up" className='card text-white lg:ms-10 ms-6 lg:grid grid-cols-3  text-gray-900 gap-5'>
     {
         ProjectList.map((item, index)=>(
             <div className='text-white p-4 w-80 bg-gray-900 rounded-2xl border border-gray-900  mt-10' key={index}>

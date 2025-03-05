@@ -7,7 +7,7 @@ const Middle = () => {
     return (
         <>
    
-        <div data-aos="fade-right">
+        <div data-aos="fade-left">
         <h1 className="lg:ms-32 font-bold mt-28 lg:mt-36 ms-10 text-white lg:text-7xl text-5xl sm:mt-5">
         <span>Hello!, 👋</span> I'm <br /> <span className='text-lime-500'>Adeola</span>
                 </h1>

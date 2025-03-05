@@ -6,7 +6,7 @@ import {BsCodeSlash} from 'react-icons/bs'
 const Skills = () => {
 
   return (
-    <div  data-aos="fade-right">
+    <div  data-aos="fade-left">
     <div className='text-white bg-gray-800 w-[90%] p-2 rounded-md mx-auto text-center my-5 mt-10'>
     <div className='text-center justify-center text-3xl gap-3 flex'>
     <span className='mt-1'>
