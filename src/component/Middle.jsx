@@ -23,7 +23,7 @@ const Middle = () => {
                                 800,
                                 "CSS",
                                 800,
-                                "Bootstrap",
+                                "Framer Website",
                                 800,
                                 "MERN Stack",
                                 800,
